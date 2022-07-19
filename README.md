@@ -1,4 +1,4 @@
-### Note :This project is still under developement
+
 ![Node Express](./node-express.png)
 
 Clone this project and use it to create your own [Node.js and Express](https://haribhandari.me) project.Please contact
